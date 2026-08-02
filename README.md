@@ -49,6 +49,14 @@
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-sync&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+</p>
+
+---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">

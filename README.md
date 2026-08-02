@@ -46,3 +46,11 @@
 <img src="https://streak-stats.demolab.com?user=Aditya-sync&theme=github_dark&hide_border=true"/>
 
 </p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/Aditya-sync/Aditya-sync/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>

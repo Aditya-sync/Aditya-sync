@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="GitHub Banner"/>
+</p>
+
+<br>
+
 <div align="center">
 
 # Hi 👋, I'm Aditya

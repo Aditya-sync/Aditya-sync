@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="./heading.svg" width=950 alt="Heading"/>
+  <img src="./heading.svg" width=1050 alt="Heading"/>
 </p>
 
 <p align="center">

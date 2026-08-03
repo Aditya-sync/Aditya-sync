@@ -10,7 +10,7 @@
 ---
 <h2 align="center"><code>ABOUT_ME</code></h2>
 
-- B.Tech in Electronics & Communication Engineering @ NSUT ('28)
+- B.Tech in Electronics & Communication Engineering  NSUT'28
 - Focused on Machine Learning, Deep Learning, Embedded Systems & Edge AI
 - Building production-ready AI applications and intelligent systems
 - Exploring LLMs, AI Infrastructure and Real-world ML deployment

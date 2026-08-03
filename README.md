@@ -55,5 +55,5 @@ Project showcase will be updated soon.
 <h2 align="center"><code>🐍CONTRIBUTION_SNAKE</code></h2>
 
 <p align="center">
-  <img src="https://github.com/Aditya-sync/Aditya-sync/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Aditya-sync/Aditya-sync/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>

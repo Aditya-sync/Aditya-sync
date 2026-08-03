@@ -45,13 +45,6 @@ Project showcase will be updated soon.
   <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />
 </p>
 
----
-
-<h2 align="center"><code>GITHUB_METRICS</code></h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-sync/Aditya-sync/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
 
 ---
 

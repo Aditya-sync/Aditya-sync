@@ -36,11 +36,10 @@ Project showcase will be updated soon.
 <h2 align="center"><code>GITHUB_ANALYTICS</code></h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-sync&show_icons=true&theme=transparent&hide_border=true&title_color=ff3b3b&text_color=E5E7EB&icon_color=ff3b3b&ring_color=ff3b3b" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Aditya-sync&theme=github-dark&hide_border=true&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&currStreakNum=ff3b3b&sideLabels=ff3b3b&sideNums=ff3b3b&dates=ff7a7a" /></p>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aditya-sync&show_icons=true&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB&icon_color=ff3b3b" /></p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=transparent&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />
+  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />
 </p>
 
 ---

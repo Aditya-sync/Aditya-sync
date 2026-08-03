@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="center"><code>ENGINEERING_METRICS</code></h2>
+<h2 align="center"><code>TECH_STACK</code></h2>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,git,github,linux,vscode,docker,anaconda" />
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center"><code>ACHIEVEMENTS</code></h2>
+<h2 align="center"><code>GITHUB_ACHIEVEMENTS</code></h2>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Aditya-sync&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
@@ -45,7 +45,7 @@
 
 ---
 
-<h2 align="center"><code>CONTRIBUTION_SNAKE</code></h2>
+<h2 align="center"><code>🐍CONTRIBUTION_SNAKE</code></h2>
 
 <p align="center">
   <img src="https://github.com/Aditya-sync/Aditya-sync/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />

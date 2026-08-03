@@ -2,19 +2,18 @@
   <img src="./banner.svg" width="100%" alt="AI Agent Banner"/>
 </p>
 
-
-
+---
 <p align="center">
   <img src="./heading.svg" width=1350 alt="Heading"/>
 </p>
 
+---
+<h2 align="left"><code>ABOUT_ME</code></h2>
 
-## 👨‍💻 About Me
-
-- 🎓 Electronics & Communication Engineering @ NSUT
-- 🤖 Passionate about Machine Learning, Deep Learning & AI
-- 🚀 Building AI-powered applications and intelligent systems
-- 🎯 Goal: AI/ML Engineer by 2028
+- B.Tech in Electronics & Communication Engineering @ NSUT ('28)
+- Focused on Machine Learning, Deep Learning, Embedded Systems & Edge AI
+- Building production-ready AI applications and intelligent systems
+- Exploring LLMs, AI Infrastructure and Real-world ML deployment
 
 ---
 

@@ -17,28 +17,22 @@
 
 ---
 
-<h2 align="center"><code>Tech_Stack</code></h2>
+<h2 align="center"><code>GITHUB_ANALYTICS</code></h2>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,git,github,linux,vscode,docker,anaconda" />
 </p>
 
 ---
-
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center"><code>GITHUB_ANALYTICS</code></h2>
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aditya-sync&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=radical&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-sync&show_icons=true&theme=transparent&hide_border=true&title_color=ff3b3b&text_color=E5E7EB&icon_color=ff3b3b&ring_color=ff3b3b" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Aditya-sync&theme=transparent&hide_border=true&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Aditya-sync&theme=radical&hide_border=true"/>
-
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=transparent&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />
 </p>
 
 ---

@@ -8,11 +8,6 @@
   <img src="./heading.svg" width=1350 alt="Heading"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-sync&label=Profile%20Views&color=ff3b3b&style=for-the-badge" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 

@@ -3,11 +3,13 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="./heading.svg" width=1350 alt="Heading"/>
 </p>
 
 ---
+
 <h2 align="center"><code>ABOUT_ME</code></h2>
 
 - B.Tech in Electronics & Communication Engineering  NSUT'28
@@ -33,6 +35,7 @@ Project showcase will be updated soon.
 </p>
 
 ---
+
 <h2 align="center"><code>GITHUB_ANALYTICS</code></h2>
 
 <p align="center">
@@ -43,11 +46,13 @@ Project showcase will be updated soon.
 </p>
 
 ---
+
 <h2 align="center"><code>GITHUB_METRICS</code></h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aditya-sync/Aditya-sync/main/github-metrics.svg" alt="GitHub Metrics"/>
 </p>
+
 ---
 
 <h2 align="center"><code>GITHUB_ACHIEVEMENTS</code></h2>

@@ -17,7 +17,7 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center"><code>Tech_Stack</code></h2>
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,git,github,linux,vscode,docker,anaconda" />

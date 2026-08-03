@@ -2,15 +2,11 @@
   <img src="./banner.svg" width="100%" alt="AI Agent Banner"/>
 </p>
 
-<div align="center">
 
-# Hi 👋, I'm Aditya
 
-### 🚀 Machine Learning Engineer in Progress
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Building+AI+Projects;Future+AI+Engineer+%7C+NSUT+ECE" alt="Typing SVG" />
-
-</div>
+<p align="center">
+  <img src="./heading.svg" width="100%" alt="Heading"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aditya-sync&label=Profile%20Views&color=ff3b3b&style=for-the-badge" />

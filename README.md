@@ -37,8 +37,7 @@ Project showcase will be updated soon.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aditya-sync&show_icons=true&theme=transparent&hide_border=true&title_color=ff3b3b&text_color=E5E7EB&icon_color=ff3b3b&ring_color=ff3b3b" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Aditya-sync&theme=transparent&hide_border=true&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" />
-</p>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Aditya-sync&theme=github-dark&hide_border=true&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ff3b3b&currStreakNum=ff3b3b&sideLabels=ff3b3b&sideNums=ff3b3b&dates=ff7a7a" /></p>
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=transparent&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />

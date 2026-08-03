@@ -22,6 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,git,github,linux,vscode,docker,anaconda" />
 </p>
+
 ---
 
 <h2 align="center"><code>FEATURED_PROJECTS</code></h2>

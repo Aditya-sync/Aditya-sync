@@ -43,6 +43,12 @@ Project showcase will be updated soon.
 </p>
 
 ---
+<h2 align="center"><code>GITHUB_METRICS</code></h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-sync/Aditya-sync/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+---
 
 <h2 align="center"><code>GITHUB_ACHIEVEMENTS</code></h2>
 

@@ -22,6 +22,14 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,git,github,linux,vscode,docker,anaconda" />
 </p>
+---
+
+<h2 align="center"><code>FEATURED_PROJECTS</code></h2>
+
+<p align="center">
+<i>Building production-ready AI & Embedded Systems projects.</i><br><br>
+Project showcase will be updated soon.
+</p>
 
 ---
 <h2 align="center"><code>GITHUB_ANALYTICS</code></h2>

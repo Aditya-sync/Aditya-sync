@@ -39,10 +39,10 @@ Project showcase will be updated soon.
 <h2 align="center"><code>GITHUB_ANALYTICS</code></h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aditya-sync&show_icons=true&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB&icon_color=ff3b3b" /></p>
+  <img width="49%" src="https://github-readme-stats-beige-zeta-76.vercel.app/api?username=Aditya-sync&show_icons=true&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB&icon_color=ff3b3b" /></p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />
+  <img width="60%" src="https://github-readme-stats-beige-zeta-76.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />
 </p>
 
 

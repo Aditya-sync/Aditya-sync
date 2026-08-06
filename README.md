@@ -18,15 +18,16 @@
 - Exploring LLMs, AI Infrastructure and Real-world ML deployment
 
 ---
+
 <h2 align="center"><code>CORE_TECHNOLOGIES</code></h2>
 
 <div align="center">
 
-<table>
+<table width="760">
 
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <b>Languages</b>
 
@@ -36,17 +37,17 @@
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 <b>Machine Learning</b>
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" height="48"/>
 
 </td>
 
@@ -54,7 +55,7 @@
 
 <tr>
 
-<td width="50%" align="center">
+<td align="center">
 
 <b>Deep Learning</b>
 
@@ -64,16 +65,16 @@
 
 </td>
 
-<td width="50%" align="center">
+<td align="center">
 
 <b>LLM / Generative AI</b>
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48"/>&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="48"/>&nbsp;&nbsp;
-
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="48"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="48"/>
 
 </td>
@@ -88,7 +89,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode"/>
 
 </td>
 
@@ -97,6 +98,7 @@
 </table>
 
 </div>
+
 
 ---
 

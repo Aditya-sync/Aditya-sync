@@ -150,7 +150,7 @@ Project showcase will be updated soon.
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-sync&theme=github-dark&hide_border=true&area=true&custom_title=Aditya's%20GitHub%20Activity"
-    width="95%"
+    width="100%"
     alt="GitHub Activity Graph"
   />
 </p>

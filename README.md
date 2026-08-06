@@ -144,13 +144,16 @@ Project showcase will be updated soon.
 
 <h2 align="center"><code>GITHUB_ANALYTICS</code></h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-beige-zeta-76.vercel.app/api?username=Aditya-sync&show_icons=true&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB&icon_color=ff3b3b" /></p>
+---
+
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats-beige-zeta-76.vercel.app/api/top-langs/?username=Aditya-sync&layout=compact&theme=github_dark&hide_border=true&title_color=ff3b3b&text_color=E5E7EB" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-sync&theme=github-dark&hide_border=true&area=true&custom_title=Aditya's%20GitHub%20Activity"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
-
 
 ---
 

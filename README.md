@@ -40,7 +40,7 @@
 
 </td>
 
-<td align="center" width="50%">
+<td align="center" width="420">
 
 <b>Machine Learning</b>
 

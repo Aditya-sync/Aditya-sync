@@ -21,25 +21,37 @@
 
 <h2 align="center"><code>CORE_TECHNOLOGIES</code></h2>
 
-<table align="center">
+<div align="center">
+
+<table>
 
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-###  Languages
+<strong>Languages</strong>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp" />
+
+<br><br>
 
 Python • C++
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-###  Machine Learning
+<strong>Machine Learning</strong>
 
-NumPy • Pandas • Scikit-learn
+<br><br>
+
+NumPy • Pandas
+
+<br>
+
+Scikit-Learn
 
 </td>
 
@@ -47,23 +59,39 @@ NumPy • Pandas • Scikit-learn
 
 <tr>
 
-<td align="center">
+<td width="50%" align="center">
 
-###  Deep Learning
+<strong>Deep Learning</strong>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+<br><br>
 
 PyTorch • TensorFlow
 
 </td>
 
-<td align="center">
+<td width="50%" align="center">
 
-###  LLM / GenAI
+<strong>LLM / Generative AI</strong>
 
- Hugging Face
+<br><br>
 
-Transformers • LangChain • Ollama
+<img src="https://skillicons.dev/icons?i=huggingface" />
+
+<br><br>
+
+Transformers
+
+<br>
+
+LangChain
+
+<br>
+
+Ollama
 
 </td>
 
@@ -73,17 +101,29 @@ Transformers • LangChain • Ollama
 
 <td colspan="2" align="center">
 
-###  Deployment
+<strong>Deployment & Engineering</strong>
+
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode" />
 
-FastAPI • Docker • Git • Linux
+<br><br>
+
+FastAPI • Docker • Git
+
+<br>
+
+GitHub • Linux • VS Code
 
 </td>
 
 </tr>
 
 </table>
+
+</div>
+
+---
 
 ---
 

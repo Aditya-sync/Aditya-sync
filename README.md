@@ -27,7 +27,7 @@
 
 <td align="center" width="50%">
 
-### 🐍 Languages
+###  Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 
@@ -37,7 +37,7 @@ Python • C++
 
 <td align="center" width="50%">
 
-### 📊 Machine Learning
+###  Machine Learning
 
 NumPy • Pandas • Scikit-learn
 
@@ -49,7 +49,7 @@ NumPy • Pandas • Scikit-learn
 
 <td align="center">
 
-### 🧠 Deep Learning
+###  Deep Learning
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
@@ -59,9 +59,9 @@ PyTorch • TensorFlow
 
 <td align="center">
 
-### 🤖 LLM / GenAI
+###  LLM / GenAI
 
-🤗 Hugging Face
+ Hugging Face
 
 Transformers • LangChain • Ollama
 
@@ -73,7 +73,7 @@ Transformers • LangChain • Ollama
 
 <td colspan="2" align="center">
 
-### 🚀 Deployment
+###  Deployment
 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode" />
 

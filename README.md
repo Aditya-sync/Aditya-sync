@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<table width="760">
+<table width="900">
 
 <tr>
 
@@ -33,7 +33,10 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,cpp" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+</p>
 
 </td>
 
@@ -43,11 +46,15 @@
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn" height="48"/>
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=sklearn" height="55"/>
+
+</p>
 
 </td>
 
@@ -61,7 +68,13 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="55"/>
+
+</p>
 
 </td>
 
@@ -71,11 +84,15 @@
 
 <br><br>
 
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="48"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="48"/>
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="55"/>
+
+<img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="55"/>
+
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="55"/>
+
+</p>
 
 </td>
 
@@ -89,7 +106,21 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+</p>
 
 </td>
 

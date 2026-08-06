@@ -18,7 +18,6 @@
 - Exploring LLMs, AI Infrastructure and Real-world ML deployment
 
 ---
-
 <h2 align="center"><code>CORE_TECHNOLOGIES</code></h2>
 
 <div align="center">
@@ -29,29 +28,25 @@
 
 <td width="50%" align="center">
 
-<strong>Languages</strong>
+<b>Languages</b>
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 
-<br><br>
-
-Python • C++
-
 </td>
 
 <td width="50%" align="center">
 
-<strong>Machine Learning</strong>
+<b>Machine Learning</b>
 
 <br><br>
 
-NumPy • Pandas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>&nbsp;&nbsp;
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>&nbsp;&nbsp;
 
-Scikit-Learn
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48"/>
 
 </td>
 
@@ -61,37 +56,25 @@ Scikit-Learn
 
 <td width="50%" align="center">
 
-<strong>Deep Learning</strong>
+<b>Deep Learning</b>
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-<br><br>
-
-PyTorch • TensorFlow
-
 </td>
 
 <td width="50%" align="center">
 
-<strong>LLM / Generative AI</strong>
+<b>LLM / Generative AI</b>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=huggingface" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48"/>&nbsp;&nbsp;
 
-<br><br>
+<img src="https://cdn.simpleicons.org/langchain/FFFFFF" height="48"/>&nbsp;&nbsp;
 
-Transformers
-
-<br>
-
-LangChain
-
-<br>
-
-Ollama
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="48"/>
 
 </td>
 
@@ -101,19 +84,11 @@ Ollama
 
 <td colspan="2" align="center">
 
-<strong>Deployment & Engineering</strong>
+<b>Deployment & Engineering</b>
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode" />
-
-<br><br>
-
-FastAPI • Docker • Git
-
-<br>
-
-GitHub • Linux • VS Code
 
 </td>
 
@@ -122,8 +97,6 @@ GitHub • Linux • VS Code
 </table>
 
 </div>
-
----
 
 ---
 

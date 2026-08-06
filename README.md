@@ -19,11 +19,71 @@
 
 ---
 
-<h2 align="center"><code>TECH_STACK</code></h2>
-<p align="center">
+<h2 align="center"><code>CORE_TECHNOLOGIES</code></h2>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,git,github,linux,vscode,docker,anaconda" />
-</p>
+<table align="center">
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🐍 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp" />
+
+Python • C++
+
+</td>
+
+<td align="center" width="50%">
+
+### 📊 Machine Learning
+
+NumPy • Pandas • Scikit-learn
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🧠 Deep Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+PyTorch • TensorFlow
+
+</td>
+
+<td align="center">
+
+### 🤖 LLM / GenAI
+
+🤗 Hugging Face
+
+Transformers • LangChain • Ollama
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+### 🚀 Deployment
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,vscode" />
+
+FastAPI • Docker • Git • Linux
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
